@@ -1,3 +1,5 @@
+# Aula 1 - Automação com python
+
 import pyautogui as gui
 import pyperclip as clip
 import pandas as pd
@@ -6,7 +8,7 @@ import datetime
 
 gui.PAUSE = 1
 
-""" # Abre o navegador
+# Abre o navegador
 gui.press('win')
 gui.write('Google Chrome')
 gui.press('enter')
@@ -29,13 +31,14 @@ gui.click(x=382, y=420)
 time.sleep(0.5)
 
 # Baixa o arquivo
-gui.click(x=1710, y=224)
-#gui.click(x=1542, y=630, clicks=2)
-time.sleep(7) """
+"""gui.click(x=1710, y=224)
+gui.click(x=1542, y=630, clicks=2)
+time.sleep(7)
+"""
 
+# Abre o arquivo excel
 dataframe = pd.read_excel(r'/home/ph/Downloads/Vendas - Dez.xlsx')
-
-#print(dataframe)
+print(dataframe)
 
 # Calcular os indicadores (faturamento, quantidade de produtos)
 faturamento = dataframe['Valor Final'].sum()
@@ -43,9 +46,9 @@ quantidade = dataframe['Quantidade'].sum()
 #print(faturamento, quantidade)
 
 # Abre o navegador
-gui.press('win')
+"""gui.press('win')
 gui.write('Google Chrome')
-gui.press('enter')
+gui.press('enter')"""
 
 # Abre o email
 gui.hotkey('ctrl', 't')
@@ -83,5 +86,5 @@ gui.hotkey('ctrl', 'v')
 # Enviar email
 gui.hotkey('ctrl', 'enter')
 
-# Fecha a aba do site
-#gui.hotkey('ctrl', 'w')
+# Fecha a aba do email
+gui.hotkey('ctrl', 'w')
