@@ -7,3 +7,5 @@ Neste diretório está disponibilizado um programa que automatiza o download de 
 ### Aula 2 - Análise de base de dados
 Neste diretório está disponibilizado um programa que analisa um dataframe e tira conclusões dos dados contidos nele.
 
+### Aula 3 - Atualização de uma base de dados com informações atualizadas da internet
+Neste diretório está disponibilizado um programa que atualiza uma base de dados utilizando informações atualizadas da internet (Web-Scraping com Selenium).
