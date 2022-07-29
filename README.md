@@ -7,28 +7,28 @@ Repositório dedicado aos estudos de Python.
 Neste notebook está disponibilizado um programa que automatiza o download de um dataframe e envia dados contidos nele por email.
 
 <div align="center">
-<a  href="https://github.com/owhenrique/PYTHON_studies/blob/main/data_analisys/Aula1.ipynb" target="_bank">Linka para a Aula 1</a>
+<a  href="https://github.com/owhenrique/PYTHON_studies/blob/main/data_analisys/Aula1.ipynb" target="_bank">Link para a Aula 1</a>
 </div>
 
 ### <a href="https://github.com/owhenrique/PYTHON_studies/blob/main/data_analisys/Aula2.ipynb" target="_bank">Aula 2</a> - Análise de base de dados
 Neste notebook está disponibilizado um programa que analisa um dataframe e tira conclusões dos dados contidos nele.
 
 <div align="center">
-<a  href="https://github.com/owhenrique/PYTHON_studies/blob/main/data_analisys/Aula2.ipynb" target="_bank">Linka para a Aula 2</a>
+<a  href="https://github.com/owhenrique/PYTHON_studies/blob/main/data_analisys/Aula2.ipynb" target="_bank">Link para a Aula 2</a>
 </div>
 
 ### <a href="https://github.com/owhenrique/PYTHON_studies/blob/main/data_analisys/Aula3.ipynb" target="_bank">Aula 3</a> - Atualização de uma base de dados com informações atualizadas da internet
 Neste notebook está disponibilizado um programa que atualiza uma base de dados utilizando informações atualizadas da internet (Web-Scraping com Selenium).
 
 <div align="center">
-<a  href="https://github.com/owhenrique/PYTHON_studies/blob/main/data_analisys/Aula3.ipynb" target="_bank">Linka para a Aula 3</a>
+<a  href="https://github.com/owhenrique/PYTHON_studies/blob/main/data_analisys/Aula3.ipynb" target="_bank">Link para a Aula 3</a>
 </div>
 
 ### <a href="https://github.com/owhenrique/PYTHON_studies/blob/main/data_analisys/Aula4.ipynb" target="_bank">Aula 4</a> - Projeto de ciência de dados com Python
 Neste notebook está disponibilizado um programa que faz um projeto de ciência de dados utilizando inteligência artificial (scikit-learn) para prever o rendimento de um investimento.
 
 <div align="center">
-<a  href="https://github.com/owhenrique/PYTHON_studies/blob/main/data_analisys/Aula4.ipynb" target="_bank">Linka para a Aula 4</a>
+<a  href="https://github.com/owhenrique/PYTHON_studies/blob/main/data_analisys/Aula4.ipynb" target="_bank">Link para a Aula 4</a>
 </div>
 
 <h1 align="center"> Créditos</h1>
